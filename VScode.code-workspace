@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "shopper-insight",
+			"path": "../streamlit-skeleton/shopper-insight"
+		}
+	],
+	"settings": {}
+}
