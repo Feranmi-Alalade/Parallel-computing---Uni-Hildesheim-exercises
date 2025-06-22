@@ -68,8 +68,8 @@ for iteration in range(max_iterations):
 
     if my_rank == 0:
         # Update the parameters using the average gradient across all processes
-        theta1 -= learning_rate*(theta1_grad_global/num_ranks)
-        theta2 -= learning_rate*(theta2_grad_global/num_ranks)
+        theta1 -= learning_rate*(theta1_grad_global)
+        theta2 -= learning_rate*(theta2_grad_global)
         # print(f"Epoch: {iteration+1}/{max_iterations}, theta1: {theta1}, theta2: {theta2}")
         # Checking how many iterations it takes to reach optimal parameters
         converged = theta1_opt - theta1< tolerance and theta2 - theta2_opt < tolerance

@@ -1,0 +1,9 @@
+T1	StationA	CA	LosAngeles	100	50
+T1	StationB	CA	SanFrancisco	200	100
+T1	StationC	NV	LasVegas	150	50
+T2	StationD	CA	LosAngeles	300	100
+T2	StationE	AZ	Phoenix	200	100
+T2	StationF	NM	Albuquerque	100	50
+T3	StationG	CA	SanFrancisco	250	150
+T3	StationH	OR	Portland	200	100
+T3	StationI	WA	Seattle	150	50

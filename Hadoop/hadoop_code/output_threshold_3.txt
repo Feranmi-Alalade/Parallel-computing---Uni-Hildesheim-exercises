@@ -1,0 +1,87 @@
+opst	['stop', 'post', 'spot', 'tops', 'pots']	5
+aemn	['name', 'mean', 'mane', 'mena', 'amen']	5
+ademn	['named', 'meand', 'maned', 'amend']	4
+ist	['its', 'sit', 'ist', 'tis']	4
+acers	['cares', 'scare', 'acres', 'races']	4
+arst	['star', 'arts', 'tars', 'rats']	4
+enst	['sent', 'nest', 'tens', 'nets']	4
+aelst	['least', 'steal', 'slate', 'tales']	4
+enost	['stone', 'tones', 'notes', 'onset']	4
+adenrw	['warned', 'warden', 'wander', 'andrew']	4
+eilv	['live', 'evil', 'veil', 'vile']	4
+nosw	['nows', 'snow', 'owns', 'sown']	4
+aet	['tea', 'eat', 'ate']	3
+eimt	['time', 'item', 'mite']	3
+aelv	['veal', 'lave', 'vale']	3
+aefst	['feast', 'fates', 'feats']	3
+dehors	['shored', 'rhodes', 'herods']	3
+aprt	['part', 'trap', 'rapt']	3
+airstt	['traits', 'artist', 'strait']	3
+adil	['laid', 'dial', 'ladi']	3
+aeimnrs	['remains', 'marines', 'namesir']	3
+aerst	['stare', 'rates', 'tears']	3
+hist	['hist', 'hits', 'tish']	3
+aprst	['parts', 'traps', 'sprat']	3
+degins	['design', 'signed', 'singed']	3
+adel	['lead', 'deal', 'dale']	3
+art	['art', 'tar', 'rat']	3
+eoprs	['ropes', 'prose', 'poser']	3
+ghinoost	['shooting', 'hootings', 'soothing']	3
+aeenrst	['earnest', 'eastern', 'nearest']	3
+aegln	['angel', 'angle', 'legan']	3
+aekps	['speak', 'spake', 'peaks']	3
+eimst	['times', 'items', 'smite']	3
+eilms	['miles', 'smile', 'slime']	3
+aelnp	['panel', 'plane', 'penal']	3
+beirsu	['bruise', 'rubies', 'buries']	3
+aeglr	['regal', 'large', 'glare']	3
+addemn	['damned', 'demand', 'madden']	3
+eilnst	['silent', 'listen', 'enlist']	3
+aestt	['state', 'taste', 'teats']	3
+aest	['seat', 'east', 'eats']	3
+anps	['snap', 'pans', 'span']	3
+acer	['care', 'acre', 'race']	3
+adim	['amid', 'maid', 'madi']	3
+aceps	['space', 'paces', 'capes']	3
+ceeprst	['respect', 'sceptre', 'spectre']	3
+aekst	['steak', 'takes', 'stake']	3
+aehrs	['share', 'hears', 'hares']	3
+aelrt	['alter', 'later', 'alert']	3
+cdeeilns	['silenced', 'licensed', 'declines']	3
+acder	['cared', 'cedar', 'raced']	3
+acst	['cast', 'cats', 'acts']	3
+aeirs	['arise', 'raise', 'aries']	3
+elorsw	['lowers', 'slower', 'rowels']	3
+ainsst	['satins', 'stains', 'saints']	3
+aemns	['names', 'means', 'manes']	3
+aelms	['meals', 'salem', 'males']	3
+adegnr	['danger', 'garden', 'ranged']	3
+abel	['able', 'abel', 'bale']	3
+adeelrt	['related', 'altered', 'treadle']	3
+ehos	['shoe', 'hose', 'sohe']	3
+aehps	['heaps', 'shape', 'phase']	3
+efils	['lifes', 'flies', 'files']	3
+alsst	['salts', 'slats', 'lasts']	3
+aegimnrst	['emigrants', 'streaming', 'mastering']	3
+gnsu	['sung', 'guns', 'snug']	3
+ader	['read', 'dear', 'dare']	3
+eels	['else', 'lees', 'eels']	3
+eerst	['trees', 'steer', 'terse']	3
+ahst	['hast', 'tash', 'hats']	3
+ehors	['shore', 'horse', 'herso']	3
+adeis	['aside', 'aides', 'ideas']	3
+018	['180', '108', '801']	3
+aelpst	['palest', 'staple', 'plates']	3
+aeelps	['please', 'asleep', 'elapse']	3
+beor	['bore', 'robe', 'ober']	3
+hosw	['whos', 'show', 'hows']	3
+aelps	['leaps', 'peals', 'lapse']	3
+elrstu	['result', 'lustre', 'rustle']	3
+eirs	['rise', 'sire', 'eris']	3
+aepr	['pear', 'rape', 'reap']	3
+aemt	['mate', 'tame', 'meat']	3
+ails	['sail', 'ails', 'lais']	3
+eginrs	['reigns', 'nigers', 'resign']	3
+enors	['senor', 'snore', 'norse']	3
+aemst	['steam', 'mates', 'matse']	3
+deit	['diet', 'tide', 'tied']	3

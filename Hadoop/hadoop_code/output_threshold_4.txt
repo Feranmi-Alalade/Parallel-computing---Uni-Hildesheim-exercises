@@ -1,0 +1,12 @@
+opst	['stop', 'post', 'spot', 'tops', 'pots']	5
+aemn	['name', 'mean', 'mane', 'mena', 'amen']	5
+ademn	['named', 'meand', 'maned', 'amend']	4
+ist	['its', 'sit', 'ist', 'tis']	4
+acers	['cares', 'scare', 'acres', 'races']	4
+arst	['star', 'arts', 'tars', 'rats']	4
+enst	['sent', 'nest', 'tens', 'nets']	4
+aelst	['least', 'steal', 'slate', 'tales']	4
+enost	['stone', 'tones', 'notes', 'onset']	4
+adenrw	['warned', 'warden', 'wander', 'andrew']	4
+eilv	['live', 'evil', 'veil', 'vile']	4
+nosw	['nows', 'snow', 'owns', 'sown']	4

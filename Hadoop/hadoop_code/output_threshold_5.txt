@@ -1,0 +1,2 @@
+opst	['stop', 'post', 'spot', 'tops', 'pots']	5
+aemn	['name', 'mean', 'mane', 'mena', 'amen']	5

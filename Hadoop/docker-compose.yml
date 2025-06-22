@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  hadoop:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./hadoop_code:/opt/hadoop/code
+    container_name: hadoop
+    ports:
+      - "9870:9870"  # Web UI
+      - "9000:9000"  # HDFS
+      - "2222:22"    # SSH
+    tty: true
