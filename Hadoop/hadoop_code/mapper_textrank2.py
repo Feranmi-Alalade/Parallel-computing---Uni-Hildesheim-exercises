@@ -8,6 +8,6 @@ for line in sys.stdin:
     word, links = line.split("\t")
     links = int(links)
 
-    inv_links = 100000 - links
+    inv_links = 100000 - links # invert number of links for descending order
 
     print(f"{inv_links}\t{word}")

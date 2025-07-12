@@ -1948,22 +1948,7 @@
 # if rank == 0:
 #     print("Final cluster contains all points.")
 
-cleaned_words = ["He","is", "a", "boy"]
-anagram = []
-for word in cleaned_words:
-    
-    letters = [word[i] for i in range(len(word))]
-    print(letters)
 
-    sorted_letters = sorted(letters)
-
-    sorted_letters = "".join(sorted_letters)
-
-    print(sorted_letters)
-
-    anagram.append(sorted_letters)
-
-print(anagram)
 
 
 

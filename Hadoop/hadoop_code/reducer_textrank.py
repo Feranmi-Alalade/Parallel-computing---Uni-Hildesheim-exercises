@@ -17,11 +17,12 @@ for line in sys.stdin:
         current_links += links
 
     else:
-        if current_word is not None and current_links > threshold:
+        if current_word is not None and current_links >= threshold:
+            # print only words with links greater than or equal to threshold
             print(f"{current_word}\t{current_links}")
 
         current_word = word
         current_links = links
 
-if current_word is not None and current_links > threshold:
+if current_word is not None and current_links >= threshold:
     print(f"{current_word}\t{current_links}")

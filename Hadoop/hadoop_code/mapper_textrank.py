@@ -3,8 +3,10 @@ import re
 
 window_length = 4
 
+# set punctuations
 punctuations = r'[.,!?;:\-_—()[\]{}\'"…`‘’“”/\\|@#$%^&*~+=<>-]'
 
+# set stopwords
 stopwords = set([
     'a', 'about', 'above', 'after', 'again', 'against', 'all', 'am', 'an', 'and', 
     'any', 'are', "aren't", 'as', 'at', 'be', 'because', 'been', 'before', 'being', 
@@ -31,22 +33,26 @@ stopwords = set([
 for line in sys.stdin:
     if not line:
         continue
-    line = line.strip()
+    line = line.strip() # remove whitespaces
     
     cleaned_words = []
     words = line.lower().split()
 
     for word in words:
-        word = re.sub(punctuations, '', word)
+        word = re.sub(punctuations, '', word) # remove punctuations
 
+        # avoid stopwords
         if word and word not in stopwords:
-            cleaned_words.append(word)
+            cleaned_words.append(word) # list containing clean words
 
     for i in range(len(cleaned_words)):
+        # word
         current_word = cleaned_words[i]
+        # links
         linked_words = cleaned_words[i+1:i+window_length]
 
         for linked_word in linked_words:
             if current_word != linked_word:
+                # Bidirectional - the word and its links
                 print(f"{current_word}\t1")
                 print(f"{linked_word}\t1")
